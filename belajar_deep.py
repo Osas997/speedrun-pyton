@@ -1,3 +1,5 @@
+# deep learning python artificial neural network 
+
 import tensorflow as tf
 import numpy as np
 
